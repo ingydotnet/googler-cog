@@ -1,6 +1,6 @@
 # Cog Config
 app_class: Googler
-site_name: Oh My Search Engine
+site_name: Oh My! Search Engine
 
 # Options
 server_port: 1234
