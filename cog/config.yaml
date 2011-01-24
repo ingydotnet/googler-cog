@@ -1,0 +1,13 @@
+# Cog Config
+app_class: Googler
+site_name: Oh My Search Engine
+
+# Options
+server_port: 1234
+
+proxy_map:
+  google:
+    path_prefix: /google/
+    remote: http://www.google.com/search?q=
+    headers:
+      PATH_INFO: ''
